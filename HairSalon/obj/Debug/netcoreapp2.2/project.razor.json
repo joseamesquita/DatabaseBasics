@@ -2961,38 +2961,8 @@
   "RootNamespace": "HairSalon",
   "Documents": [
     {
-      "FilePath": "/Users/JoseAmesquita/Desktop/HairSalon.Solution/HairSalon/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/JoseAmesquita/Desktop/HairSalon.Solution/HairSalon/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/JoseAmesquita/Desktop/HairSalon.Solution/HairSalon/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/JoseAmesquita/Desktop/HairSalon.Solution/HairSalon/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/Users/JoseAmesquita/Desktop/HairSalon.Solution/HairSalon/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/JoseAmesquita/Desktop/HairSalon.Solution/HairSalon/Views/_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/JoseAmesquita/Desktop/HairSalon.Solution/HairSalon/Views/Shared/_CookieConsentPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
     },
     {
